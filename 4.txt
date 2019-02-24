@@ -4,4 +4,8 @@ master
 
 second branch
 
+<<<<<<< HEAD
 master
+=======
+third branch
+>>>>>>> thirdBranch
